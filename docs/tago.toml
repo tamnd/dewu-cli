@@ -1,0 +1,10 @@
+title       = "dewu"
+baseURL     = "https://dewu-cli.tamnd.com/"
+description = "Dewu sneaker and luxury resale CLI"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/dewu-cli"
